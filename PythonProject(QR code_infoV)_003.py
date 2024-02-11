@@ -3,7 +3,7 @@ import qrcode
 data = "BEGIN:VCARD" + "\n"
 data += "VERSION:3.0" + "\n"
 data += "FN:Dahee Lee" + "\n"
-data += "TEL;TYPE=WORK;CELL:010 8034 2697" + "\n"
+data += "TEL;TYPE=WORK;CELL:010 0000 0000" + "\n"
 data += "EMAIL;TYPE=WORK:Home Protector lol" + "\n"
 data += "URL;TYPE=youtube:https://youtu.be/SIL4kaJD2Cg?\n"
 data += "END:VCARD" + "\n"
